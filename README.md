@@ -1,6 +1,6 @@
 # Domain Name Forums
 
-A curated list of domain name related forums and discussion boards.
+A curated list of domain name related forums and discussion boards for domain name enthusiasts and professionals.
 
 | Forum | Specialization |
 |---|---|
